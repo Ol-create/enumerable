@@ -14,6 +14,12 @@ To get a local copy up and running follow these simple example steps.
 
 
 ## Author
+
+👤 ** Oluyemi Paul **
+
+- GitHub: [Ol-create](https://github.com/Ol-create)
+- Twitter: [@oluyemiPaul2](https://twitter.com/OluyemiPaul2)
+- LinkedIn: [paul-oluyemi](https://www.linkedin.com/in/paul-oluyemi-193966ab/)
 	
 👤 **Habeeb Musa Efiamotu**
 
